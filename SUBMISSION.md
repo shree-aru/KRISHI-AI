@@ -148,7 +148,7 @@ The platform leverages Google Gemini's advanced AI capabilities — including vi
 
 ## Live Demo
 
-**URL**: https://xkjbwur6zdygi.kimi.page
+**URL**: https://shree-aru.github.io/KRISHI-AI/
 
 ### Demo Flow for Judges
 1. **Home Page** — Scroll through animated hero, statistics, feature cards, farmer testimonials
@@ -161,7 +161,7 @@ The platform leverages Google Gemini's advanced AI capabilities — including vi
 ---
 
 ## GitHub Repository
-[Add your GitHub repo URL here]
+https://github.com/shree-aru/KRISHI-AI
 
 ---
 

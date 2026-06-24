@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-**https://xkjbwur6zdygi.kimi.page**
+**https://shree-aru.github.io/KRISHI-AI/**
 
 ---
 
@@ -208,8 +208,8 @@ src/
 | **Team Members** | [Your names here] |
 | **Theme** | Agriculture + Accessibility |
 | **API Used** | Google Gemini (Vision + Pro) |
-| **Live Demo** | https://xkjbwur6zdygi.kimi.page |
-| **Repository** | [Your GitHub repo here] |
+| **Live Demo** | https://shree-aru.github.io/KRISHI-AI/ |
+| **Repository** | https://github.com/shree-aru/KRISHI-AI |
 
 ---
 
